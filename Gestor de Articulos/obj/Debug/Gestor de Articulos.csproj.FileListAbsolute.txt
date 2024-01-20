@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Debug\Gestor de Articulos.exe.config
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Debug\Gestor de Articulos.exe
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Debug\Gestor de Articulos.pdb
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor de Articulos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor de Articulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor_de_Articulos.Form1.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor_de_Articulos.Properties.Resources.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor de Articulos.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor de Articulos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor de Articulos.exe
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor de Articulos.pdb
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor_de_Articulos.FormCarga.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor_de_Articulos.Descripcion.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor_de_Articulos.FormModifador.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Debug\Gestor_de_Articulos.FormBuscador.resources

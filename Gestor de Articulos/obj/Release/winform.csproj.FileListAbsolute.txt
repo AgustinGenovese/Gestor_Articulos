@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Gestor de Articulos.exe.config
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Gestor de Articulos.exe
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Gestor de Articulos.pdb
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Dominio.dll
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Negocio.dll
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Dominio.pdb
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\bin\Release\Negocio.pdb
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.Descripcion.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.Form1.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.FormCarga.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\Gestor_de_Articulos.Properties.Resources.resources
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\winform.csproj.CopyComplete
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\Gestor de Articulos.exe
+C:\Users\User\Desktop\Cursos C#\3- Nivel 2 C#\Proyecto Final\Gestor de Articulos\obj\Release\Gestor de Articulos.pdb
